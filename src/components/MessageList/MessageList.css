@@ -1,0 +1,36 @@
+.message-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.message-list-item {
+  margin: 10px 10px 20px;
+  display: flex;
+}
+
+.message {
+  width: 50%;
+}
+
+.message-name {
+  font-size: 1em;
+  text-transform: uppercase;
+  font-weight: 900;
+  text-align: left;
+  padding: 0;
+}
+
+.message-text {
+  background-color: brown;
+  border-radius: 20px;
+  padding: 10px;
+  color: #fff;
+  font-size: 1em;
+  text-align: left;
+}
+
+.message-date {
+  font-size: 0.8em;
+  text-align: right;
+}

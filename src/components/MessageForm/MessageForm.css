@@ -1,0 +1,8 @@
+.form-block {
+  text-align: left;
+  padding: 5px;
+}
+
+.form-block input {
+  width: 95%;
+}
